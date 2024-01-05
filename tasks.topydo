@@ -1,0 +1,30 @@
+[
+    {
+        "TT": "İngilizce Çalış",
+        "TI": "1 Saat Gramer, 1 Saat Dilbilgisi",
+        "TD": [1,5,7],
+        "TTm": "",
+        "TM": ["01.01.2024","07.01.2024"]
+    },
+    {
+        "TT": "Python Çalış",
+        "TI": "Proje yap",
+        "TD": [2],
+        "TTm": "17.01.2024",
+        "TM": []
+    },
+    {
+        "TT": "C++ Projesi",
+        "TI": "Projede ilerle",
+        "TD": [2,3],
+        "TTm": "",
+        "TM": ["01.01.2024"]
+    },
+    {
+        "TT": "Borç Ödeme",
+        "TI": "SON GÜN UNUTMA",
+        "TD": [8],
+        "TTm": "05.01.2024",
+        "TM": []
+    }
+]
